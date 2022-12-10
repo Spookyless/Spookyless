@@ -18,9 +18,6 @@ This section contains information mandatory for one of the courses I take at uni
 <details>
 <summary>Narzędzia informatyczne</summary>
   
-<br/>
-  
-<pre>
-:)
-</pre>
+### Papers with Code, fork
+\[[Artukuł](https://paperswithcode.com/paper/generating-paths-with-wfc)\] \[[Fork](https://github.com/Spookyless/path-wfc)\]
 </details>
