@@ -8,4 +8,7 @@ I'm Filip, an aspiring developer and wannabe game designer, slowly working towar
 - 📫 How to reach me:
   - using Discord: **Spookyless#3680**
   - by email: **spookyless.info@gmail.com**
-  
+
+<br/>
+
+Check out various hackathons and gamejams I participated in: [\[link\]](https://github.com/stars/Spookyless/lists/hackathons-gamejams)
